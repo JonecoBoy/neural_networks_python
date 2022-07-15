@@ -1,6 +1,7 @@
 # neural_networks_python
 Here i publish my code and data sets used to study neural networks with python.
 I did perceptron, peceptron multi layer and gradient descent methods to categorize/clusterize data sets.
+I provide the .py files and the html generated with jupyter notebook. Jupyter notebook is an awesome tool that helps in numerical values and is possible to record data in a nice way
 
 #Bilbiography
 VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.".
